@@ -1,7 +1,4 @@
-# ClassCastException Example
 
-Sample for Class Cast Exception. Here's the whole code in this Repo:
-```java
 public class SomeGeneric<T> {
 
     @SuppressWarnings("unchecked")
@@ -24,5 +21,5 @@ public class SomeGeneric<T> {
         Double someDoubleInst = withDouble.getFirst();
     }
 }
-```
+
 
